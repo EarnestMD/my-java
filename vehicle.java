@@ -1,3 +1,5 @@
+
+//passing object to other class as parameter
 public class vehicle {
     void ride(){
 
